@@ -367,8 +367,10 @@
 
 <div align="center">
 
-### 🎮 Gaming Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/Rajkumar7633?theme=dark&font=baloo&width=500&extension=activity)
+### 🎮 Competitive Programming Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Rajkumar7633&theme=dark)
+![CodeChef Stats](https://cp-card.vercel.app/api?username=rajcode&theme=dark)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Rajkumar7633&theme=dark)
 
 </div>
 
