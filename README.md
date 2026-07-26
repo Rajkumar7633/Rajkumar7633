@@ -207,7 +207,7 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4636?style=for-the-badge&logo=codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
-- 🔥 **LeetCode 4⭐ (1755 rating)** - 2050+ problems solved
+- 🔥 **LeetCode 4⭐ (1755 rating)** - 1050+ problems solved
 - 🔥 **CodeChef 4⭐ (1975 rating)** - Advanced DSA expertise
 - 🔥 **Codeforces Specialist (1431 rating)** - Competitive programming
 - 🔥 **500-Day Coding Streak** - Consistent problem solving
