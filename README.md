@@ -102,6 +102,40 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #667eea, #764ba2, #f093fb); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skill Proficiency</span>
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Backend Skills
+![Java](https://img.shields.io/badge/Java-90%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-85%25-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-80%25-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Frontend Skills
+![React](https://img.shields.io/badge/React-85%25-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-80%25-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-75%25-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-80%25-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-85%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-75%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-80%25-0088CC?style=flat-square&logo=gitlab&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="100"/>
+
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/L1R1TVI4STLp6jx0HU/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
@@ -126,9 +160,12 @@
 
 ## <img src="https://media.giphy.com/media/j0glRhzCzJj4Y/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #667eea, #764ba2, #f093fb); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Projects</span>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #667eea; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #667eea11, #764ba211); box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
 
 ### 📊 API Monitoring Dashboard
 **Real-Time API Monitoring Platform**
@@ -136,10 +173,12 @@
 - Tracking 4,800+ API requests across 6 microservices
 - 99.98% uptime accuracy with SSE & OpenTelemetry
 - Reduced incident detection time by 60%
-- [View Project](https://github.com/Rajkumar7633/API-Monitoring-Dashboard)
+- [View Project](https://github.com/Rajkumar7633/API-Monitoring-Dashboard) 🔗
 
+</div>
 </td>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #f093fb; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f093fb11, #f5576c11); box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
 
 ### 🤖 TalentSync AI
 **AI-Powered Recruitment Platform**
@@ -147,12 +186,14 @@
 - Multi-tenant architecture with automated resume parsing
 - Real-time coding assessment using Socket.io & LiveKit
 - Reduced candidate screening time by 40%
-- [View Project](https://github.com/Rajkumar7633/TalentSync-AI)
+- [View Project](https://github.com/Rajkumar7633/TalentSync-AI) 🔗
 
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #4facfe; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #4facfe11, #00f2fe11); box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
 
 ### 💳 AdvancePay
 **Production-Grade Payment Gateway**
@@ -160,10 +201,12 @@
 - 10,000+ TPS with p95 response time under 200ms
 - 150+ payment methods (UPI, cards, net banking)
 - JWT auth, KYC verification, real-time monitoring
-- [View Project](https://github.com/Rajkumar7633/AdvancePay)
+- [View Project](https://github.com/Rajkumar7633/AdvancePay) 🔗
 
+</div>
 </td>
-<td width="50%">
+<td width="50%" align="center">
+<div style="border: 2px solid #43e97b; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #43e97b11, #38f9d711); box-shadow: 0 4px 15px rgba(67, 233, 123, 0.3);">
 
 ### 🏥 Hospital Backend System
 **Healthcare Data Management**
@@ -171,11 +214,22 @@
 - Secure REST APIs for healthcare data
 - Bulk email service (200+ emails simultaneously)
 - Reduced notification delivery time by 85%
-- [View Project](https://github.com/Rajkumar7633/Hospital-Backend)
+- [View Project](https://github.com/Rajkumar7633/Hospital-Backend) 🔗
 
+</div>
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="100"/>
+
+</div>
 
 ---
 
@@ -193,7 +247,23 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #f093fb, #f5576c, #4facfe); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Work Experience</span>
+<div align="center">
+
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Dynamic Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Rajkumar7633&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/Rajkumar7633?style=for-the-badge&color=green)
+![Stars](https://img.shields.io/github/stars/Rajkumar7633?style=for-the-badge&color=yellow)
+![Repo Count](https://img.shields.io/badge/Repos-20+-blue?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #f093fb, #f5576c, #4facfe); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Work Experience Timeline</span>
+
+<div align="center">
+
+<div style="border-left: 4px solid #f093fb; padding-left: 20px; margin: 20px 0; background: linear-gradient(90deg, #f093fb11, transparent);">
 
 ### 💼 EPAM Systems
 **Junior Software Engineer Intern** | Jan 2026 – June 2026
@@ -202,11 +272,19 @@
 - Engineered RBAC for 3 user roles, resolved 50+ bugs
 - Built AI Agent using MCP (Model Context Protocol)
 
+</div>
+
+<div style="border-left: 4px solid #4facfe; padding-left: 20px; margin: 20px 0; background: linear-gradient(90deg, #4facfe11, transparent);">
+
 ### 💼 Workfall
 **Software Development Engineer Intern** | Jul 2025 – Sep 2025
 - Developed hospital backend with Spring Boot + PostgreSQL
 - Built bulk email service (200+ emails simultaneously)
 - Reduced notification delivery time by 85%
+
+</div>
+
+</div>
 
 ---
 
@@ -249,15 +327,21 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #ff9a9e, #fecfef, #fecfef); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Fun Facts</span>
+## <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="40"> <span style="background: linear-gradient(90deg, #ff9a9e, #fecfef, #fecfef); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Fun Facts & Stats</span>
 
 <div align="center">
 
+### 🌍 Visitor Map
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Rajkumar7633.Rajkumar7633" alt="Visitor Map"/>
+
+### 📊 Productivity Stats
 - 🌟 **Profile Views**: <img src="https://komarev.com/ghpvc/?username=Rajkumar7633&color=blue&style=flat-square" alt="Profile Views"/>
-- 🔥 **LeetCode Problems**: 2050+ solved
+- 🔥 **LeetCode Problems**: 2050+ solved (1050+ LeetCode, 1000+ other platforms)
 - 📊 **Coding Streak**: 500+ days
 - ☕ **Coffee Consumed**: Infinite cups
 - 💪 **DSA Rating**: LeetCode 4⭐ | CodeChef 4⭐ | Codeforces Specialist
+- 🚀 **Total Commits**: Counting...
+- 📈 **Lines of Code**: Writing everyday!
 
 </div>
 
@@ -283,6 +367,15 @@
 
 <div align="center">
 
+### 🎮 Gaming Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/Rajkumar7633?theme=dark&font=baloo&width=500&extension=activity)
+
+</div>
+
+---
+
+<div align="center">
+
 ![Snake Animation](https://github.com/Rajkumar7633/Rajkumar7633/blob/output/github-contribution-grid-snake.svg)
 
 </div>
@@ -296,3 +389,4 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
 
 </div>
+ 
