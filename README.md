@@ -317,11 +317,11 @@
 
 <div align="center">
 
-### 🕐 Recent Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajkumar7633&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" alt="WakaTime Stats" width="100%"/>
+### � GitHub Contribution Graph
+<img src="https://ghchart.rshah.org/Rajkumar7633" alt="GitHub Chart" width="100%"/>
 
-### 📝 Latest Commits
-<img src="https://github-readme-stats.vercel.app/api/last-commit?username=Rajkumar7633&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Last Commit" width="100%"/>
+### � Contribution Heatmap
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar7633&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFB86C" alt="Contribution Graph" width="100%"/>
 
 </div>
 
