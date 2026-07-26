@@ -368,9 +368,15 @@
 <div align="center">
 
 ### 🎮 Competitive Programming Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Rajkumar7633&theme=dark)
-![CodeChef Stats](https://cp-card.vercel.app/api?username=rajcode&theme=dark)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Rajkumar7633&theme=dark)
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-4%E2%98%85-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4636?style=for-the-badge&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+**LeetCode 4⭐ (1755) | CodeChef 4⭐ (1975) | Codeforces Specialist (1431)**
+
+</div>
 
 </div>
 
@@ -378,7 +384,8 @@
 
 <div align="center">
 
-![Snake Animation](https://github.com/Rajkumar7633/Rajkumar7633/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Activity
+<img src="https://ghchart.rshah.org/Rajkumar7633" alt="GitHub Chart" width="100%"/>
 
 </div>
 
